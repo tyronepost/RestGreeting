@@ -1,7 +1,7 @@
 .gradle/*
 .idea/*
 gradle/*
-/src/main/ember/greeting/bower_components/
-/src/main/ember/greeting/node_modules/
-/src/main/ember/greeting/tmp/
-/src/main/ember/greeting/dist/
+/src/main/ember/bower_components/
+/src/main/ember/dist/
+/src/main/ember/node_modules/
+/src/main/ember/tmp/
