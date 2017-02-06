@@ -29,4 +29,5 @@ targetCompatibility = 1.8
 dependencies {
     compile("org.springframework.boot:spring-boot-starter-web")
     compile("org.springframework.boot:spring-boot-starter-thymeleaf")
+    compile("org.hibernate:hibernate-core:5.2.7.Final")
 }
