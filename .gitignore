@@ -5,3 +5,12 @@ gradle/*
 /src/main/ember/dist/
 /src/main/ember/node_modules/
 /src/main/ember/tmp/
+.DS_Store
+.gradle/
+.idea/
+build/
+gradle/
+src/.DS_Store
+src/main/.DS_Store
+src/main/resources/public/
+src/test/
